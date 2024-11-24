@@ -12,9 +12,9 @@ Este é um projeto desenvolvido em Angular que funciona como uma calculadora de 
 
 **Interface intuitiva:** A aplicação possui um design amigável e responsivo, tornando fácil a visualização das projeções.
 
-<center>
-  <img src="./public/investiment-calculator-demo.gif" style="width: 15em;">
-</center>
+<div style="text-align: center;">
+  <img src="./public/investiment-calculator-demo.gif" style="width: 18em;">
+</div>
 
 ## 📝 Notas
 
