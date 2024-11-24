@@ -16,8 +16,6 @@ export class UserInputComponent {
   enteredExpectedReturn = signal('');
   enteredDuration = signal('');
 
-  constructor() {}
-
   onSubmit() {
       this.investmentService.calculateInvestmentResults({
         initialInvestment: +this.enteredInitialInvestment(),
