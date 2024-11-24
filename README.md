@@ -16,7 +16,7 @@ Este é um projeto desenvolvido em Angular que funciona como uma calculadora de 
 <img src="./assets/investiment-calculator-demo.gif" style="width: 15em;">
 </center>
 
-[Test the application here](https://rafaelcesar0.github.io/investment-calculator/)
+### [Test the application here](https://rafaelcesar0.github.io/investment-calculator/)
 
 ## 📝 Notas
 
