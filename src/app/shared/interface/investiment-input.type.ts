@@ -1,4 +1,4 @@
-export type calculateInvestmentType = {
+export default interface InvestmentInputType {
   initialInvestment: number;
   duration: number;
   expectedReturn: number;
